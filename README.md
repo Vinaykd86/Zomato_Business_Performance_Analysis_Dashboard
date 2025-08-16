@@ -19,6 +19,8 @@ This project focuses on analyzing Zomato’s performance across users, cities, a
 
 The main goal of the project is to help businesses like Zomato track their sales growth, customer engagement, retention, and regional demand, enabling better decision-making.
 
+Dashboard link = https://1drv.ms/u/c/42aa8c83f8db0133/EccdPK4xNdFKiBtuNsveErIBRR0l_QEDEf52S_UNGHaeNw?e=PGaDTb
+
 
 📊 Data Description
 
