@@ -15,6 +15,7 @@ This project focuses on analyzing Zomato’s performance across users, cities, a
 
 The main goal of the project is to help businesses like Zomato track their sales growth, customer engagement, retention, and regional demand, enabling better decision-making.
 
+
 📊 Data Description
 
 The dataset (CSV/Excel format) was sourced from the internet and provides detailed information related to Zomato’s users and sales. It covers:
@@ -31,6 +32,7 @@ User Engagement: New users gained, users lost, and retention metrics.
 
 This dataset provides a comprehensive overview of Zomato’s operations, making it suitable for analyzing business growth and customer behavior.
 
+
 ⚙️ Data Processing
 
 Importing Data
@@ -46,6 +48,7 @@ Created structured tables for user performance, sales by city, and order details
 Exporting Clean Data
 
 The cleaned dataset was exported to Excel and connected to Power BI for building dashboards.
+
 
 📈 Data Visualization
 
@@ -88,6 +91,7 @@ Active users by city (Bikaner 1.7K, Noida 1.4K, Indirapuram 1.3K, etc.).
 Sales contribution by city (Tirupati, Electronic City, Pune).
 
 Order count distribution across regions.
+
 
 ✅ Conclusion
 
