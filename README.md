@@ -48,7 +48,7 @@ The cleaned dataset was exported to Excel and connected to Power BI for building
 
 Using Power BI, an interactive and comprehensive Zomato Dashboard was created with multiple analysis views:
 
-1. Overview Dashboard
+### 1. Overview Dashboard
 
 Key metrics: ₹987M revenue, 2M orders, 148K ratings, 150K total orders.
 
@@ -60,7 +60,7 @@ Veg orders: 156K
 
 Other orders: 14K
 
-2. Sales Analysis
+### 2. Sales Analysis
 
 Year-wise sales trend (2017–2020) showing growth and decline.
 
@@ -68,7 +68,7 @@ Top cities by sales: Tirupati (₹43M), Electronic City (₹29M), Pune (₹27M).
 
 Order distribution across Top 100 cities.
 
-3. User Performance Dashboard
+### 3. User Performance Dashboard
 
 78K active users out of 100K users.
 
@@ -78,7 +78,7 @@ Gender-based gain/loss split (Male: 18.8K lost, Female: 14K lost).
 
 User distribution by age group (majority between 20–30 years).
 
-4. City Performance Dashboard
+### 4. City Performance Dashboard
 
 Active users by city (Bikaner 1.7K, Noida 1.4K, Indirapuram 1.3K, etc.).
 
@@ -101,7 +101,7 @@ Demographic patterns, showing young adults (20–30 yrs) dominate Zomato usage.
 
 The insights derived can help Zomato’s management to:
 
-Improve user retention strategies.
+### Improve user retention strategies.
 
 Focus on expansion in high-performing cities.
 
