@@ -13,7 +13,7 @@
 
 
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing Zomato’s performance across users, cities, and orders using data visualization techniques. The dataset includes order transactions, user demographics, city-level performance, and sales data, which were processed and visualized to identify key insights about customer behavior, city performance, and sales trends.
 
@@ -22,12 +22,12 @@ The main goal of the project is to help businesses like Zomato track their sales
 Dashboard link = https://1drv.ms/u/c/42aa8c83f8db0133/EccdPK4xNdFKiBtuNsveErIBRR0l_QEDEf52S_UNGHaeNw?e=PGaDTb
 
 
-📊 Data Description
+## 📊 Data Description
 
 The dataset is structured into multiple tables — Users, Orders, Menu, Restaurant and Food Table — capturing customer details, order transactions, and menu offerings. This relational setup enables analysis of customer behavior, food preferences, and revenue trends. This dataset provides a comprehensive overview of Zomato’s operations, making it suitable for analyzing business growth and customer behavior.
 
 
-⚙️ Data Processing
+## ⚙️ Data Processing
 
 Importing Data
 
@@ -44,7 +44,7 @@ Exporting Clean Data
 The cleaned dataset was exported to Excel and connected to Power BI for building dashboards.
 
 
-📈 Data Visualization
+## 📈 Data Visualization
 
 Using Power BI, an interactive and comprehensive Zomato Dashboard was created with multiple analysis views:
 
@@ -87,7 +87,7 @@ Sales contribution by city (Tirupati, Electronic City, Pune).
 Order count distribution across regions.
 
 
-✅ Conclusion
+## ✅ Conclusion
 
 This project provides a detailed business performance analysis of Zomato through interactive dashboards. By leveraging data cleaning, transformation, and visualization techniques, the project identifies:
 
