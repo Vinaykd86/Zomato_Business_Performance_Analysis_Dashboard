@@ -24,19 +24,7 @@ Dashboard link = https://1drv.ms/u/c/42aa8c83f8db0133/EccdPK4xNdFKiBtuNsveErIBRR
 
 📊 Data Description
 
-The dataset (CSV/Excel format) was sourced from the internet and provides detailed information related to Zomato’s users and sales. It covers:
-
-Customer Information: Active users, user count, ratings, and age-wise segmentation.
-
-Order Details: Type of food ordered (Veg, Non-Veg, Other), order count, and ratings.
-
-City-Level Data: Sales value, active users, order count, and revenue distribution by city.
-
-Financial Information: Total revenue generated (₹987M), yearly sales, and order quantity (2M).
-
-User Engagement: New users gained, users lost, and retention metrics.
-
-This dataset provides a comprehensive overview of Zomato’s operations, making it suitable for analyzing business growth and customer behavior.
+The dataset is structured into multiple tables — Users, Orders, Menu, Restaurant and Food Table — capturing customer details, order transactions, and menu offerings. This relational setup enables analysis of customer behavior, food preferences, and revenue trends. This dataset provides a comprehensive overview of Zomato’s operations, making it suitable for analyzing business growth and customer behavior.
 
 
 ⚙️ Data Processing
